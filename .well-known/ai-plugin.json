@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Pro Trader AI",
+  "name_for_model": "pro_trader_ai",
+  "description_for_human": "AI trader dengan pengalaman bertahun-tahun dalam analisis teknikal & price action (teknikal alchemist).",
+  "description_for_model": "AI agent profesional trading yang mampu membaca chart crypto, forex, dan saham, serta menghasilkan sinyal entry, TP, dan SL dengan confidence rating tinggi.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://web-production-87d5b.up.railway.app/openapi.json"
+  },
+  "logo_url": "https://i.imgur.com/7IdrG4T.png",
+  "contact_email": "support@protrader.ai",
+  "legal_info_url": "https://protrader.ai/legal"
+}
