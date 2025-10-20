@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+ta
+pillow
+opencv-python-headless
+pytesseract

@@ -1,0 +1,20 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Pro Trader AI API",
+    "version": "1.0.0",
+    "description": "Combined API for Pro Trader AI - endpoints for signals and chart analysis."
+  },
+  "servers": [
+    {
+      "url": "https://web-production-87d5b.up.railway.app"
+    }
+  ],
+  "paths": {
+    "/pro_signal": {},
+    "/scalp_signal": {},
+    "/analyze_chart": {},
+    "/analyze": {},
+    "/analyze_csv": {}
+  }
+}
